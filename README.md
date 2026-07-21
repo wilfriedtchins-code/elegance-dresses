@@ -1,1 +1,1 @@
-# elegance-dresses
+An elegant, modern e-commerce platform designed for the seamless browsing and purchasing of luxury dresses. This website combines a sophisticated visual aesthetic with high-performance functionality, offering users a premium shopping experience. Key features include a curated dress catalog, smooth navigation, interactive product filtering, and a secure checkout process.
