@@ -1,5 +1,5 @@
 ## Description
-Brief description of what your shop does.
+an online shop to sell quality elegance dresses at afordable price 
 
 ## Features
 - Responsive design
@@ -14,3 +14,5 @@ Brief description of what your shop does.
 
 ## Author
 Your Name
+##website link
+https://wilfriedtchins-code.github.io/elegance-dresses/
