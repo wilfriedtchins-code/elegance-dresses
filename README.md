@@ -13,6 +13,8 @@ an online shop to sell quality elegance dresses at afordable price
 2. Open index.html
 
 ## Author
-Your Name
+Tchinda nguemani welfried bryan
+
+
 ##website link
 https://wilfriedtchins-code.github.io/elegance-dresses/
